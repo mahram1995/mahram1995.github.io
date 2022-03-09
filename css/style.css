@@ -1,0 +1,67 @@
+.banner-container{
+    background-color: rgb(201, 197, 192);
+}
+.banner-column{
+    background-color: rgb(153, 156, 156);
+}
+.navbar-container{
+    background-color: rgb(59, 63, 66);
+    position: sticky;
+    top: 0;
+}
+.about-container{
+    background-color: rgb(73, 225, 236);
+    
+}
+.text-align-justify{
+    text-align: justify;
+}
+.text-center{
+    text-align: center;
+}
+.education-container{
+    background-color: rgb(160, 204, 243);
+}
+.project-container{
+    background-color: rgb(109, 169, 238);
+}
+.circle-bg-color{
+    background-color: rgb(245, 124, 116);
+    border-radius: 50%;
+    height: 120px;
+    width: 120px; 
+    color:white;
+}
+.color-white{
+    color: white;
+}
+.border-light{
+    border: 1px solid rgb(255, 253, 253);
+}
+.contact-containers{
+     background-color: rgba(62, 63, 61, 0.952);
+     color: white;
+}
+.ml-6{
+    margin:3px;
+    
+}
+.footer{
+    background-color: rgb(119, 182, 238);
+}
+
+.circle{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: white;
+    font-size: 40px;
+    text-align: center;
+    color: rgb(113, 164, 241);
+
+}
+.circle:hover{
+    background-color: rgb(36, 30, 30);
+    color: rgb(254, 254, 255);
+}
